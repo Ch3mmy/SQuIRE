@@ -44,6 +44,7 @@ conda create -n squire python=2.7.4
 ```
 pip install squire
 ```
+You may get many pip dependency package error, try to fixed it by yourself😊.
 
 ### Step 1: Create the Helper Script
 
