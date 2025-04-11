@@ -41,6 +41,14 @@ conda create -n squire python=2.7.4
 ```
 
 ### Step 0: Download squire software by pip (no dependency software version)
+
+⚠The **squire build** cmd could be used by install squire (pip)
+```
+squire Build -s all
+```
+
+You must install it by pip
+
 ```
 pip install squire
 ```
